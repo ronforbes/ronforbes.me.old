@@ -1,0 +1,31 @@
+.masthead h1 {
+	font-size: 108px;
+	text-align: center;
+}
+
+.masthead p.lead {
+	font-size: 30px;
+	text-align: center;
+}
+
+.masthead p {
+	text-align: center;
+}
+
+.jumbotron h1 {
+	font-weight: bold;
+}
+
+section {
+	border-bottom: 1px solid #e5e5e5;
+}
+
+section h2 {
+	font-size: 40px;
+	font-weight: 400;
+	text-align: center;
+}
+
+section p {
+	text-align: center;
+}
